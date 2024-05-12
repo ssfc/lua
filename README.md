@@ -44,4 +44,5 @@ Lua 字符串。https://www.runoob.com/lua/lua-strings.html 单引号、双引�
 在 Lua 中，要计算字符串的长度（即字符串中字符的个数），你可以使用 **string.len**函数或 **utf8.len** 函数，包含中文的一般用 **utf8.len**，**string.len** 函数用于计算只包含 ASCII 字符串的长度。
 
 - %d, %i - 接受一个数字并将其转化为有符号的整数格式
+- %f - 接受一个数字并将其转化为浮点数格式
 
