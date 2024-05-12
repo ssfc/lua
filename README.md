@@ -46,3 +46,14 @@ Lua 字符串。https://www.runoob.com/lua/lua-strings.html 单引号、双引�
 - %d, %i - 接受一个数字并将其转化为有符号的整数格式
 - %f - 接受一个数字并将其转化为浮点数格式
 
+Lua 数组。https://www.runoob.com/lua/lua-arrays.html 
+
+**local** myArray = {10, 20, 30, 40, 50}
+
+**for** i = 1, #myArray **do**
+
+Lua 迭代器。https://www.runoob.com/lua/lua-iterators.html
+
+迭代器（iterator）是一种对象，它能够用来遍历标准模板库容器中的部分或全部元素，每个迭代器对象代表容器中的确定的地址。
+
+Lua table(表)。https://www.runoob.com/lua/lua-tables.html
