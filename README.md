@@ -32,3 +32,6 @@ Lua 运算符。https://www.runoob.com/lua/lua-miscellaneous-operator.html
 ^	乘幂	A^2 输出结果 100
 
 ~=	不等于，检测两个值是否相等，不相等返回 true，否则返回 false	(A ~= B) 为 true。
+
+and or not. 
+
