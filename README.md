@@ -28,3 +28,5 @@ lua practice
 12   Lua 函数。https://www.runoob.com/lua/lua-functions.html多返回值。可变参数。 
 
 Lua 运算符。https://www.runoob.com/lua/lua-miscellaneous-operator.html 
+
+^	乘幂	A^2 输出结果 100
