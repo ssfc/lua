@@ -57,3 +57,5 @@ Lua 迭代器。https://www.runoob.com/lua/lua-iterators.html
 迭代器（iterator）是一种对象，它能够用来遍历标准模板库容器中的部分或全部元素，每个迭代器对象代表容器中的确定的地址。
 
 Lua table(表)。https://www.runoob.com/lua/lua-tables.html
+
+Lua 文件 I/O。https://www.runoob.com/lua/lua-file-io.html 
