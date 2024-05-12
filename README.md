@@ -35,3 +35,6 @@ Lua 运算符。https://www.runoob.com/lua/lua-miscellaneous-operator.html
 
 and or not. 
 
+..	连接两个字符串
+
+\#	一元运算符，返回字符串或表的长度。
